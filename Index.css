@@ -1,0 +1,59 @@
+body {
+  background-image: url(background.jpg); 
+
+}
+p {
+  color: white;
+  font-family: Courier; 
+  text-align: center;
+}
+h1 {
+  font-family: Courier;
+  font-weight: bold;
+  text-align: center;
+  color: whitesmoke;
+}
+
+h3 { 
+  font-family:fantasy;
+  text-align: center;
+  font: courier;
+}
+
+img { 
+  border-style:solid;
+  width: 750px;
+  margin: auto;
+  display: block;
+  
+
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  text-align: center;
+  font: courier;
+}
+
+li {
+  float: left;
+  text-align: center;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  text-align: center;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+  text-align: center;
